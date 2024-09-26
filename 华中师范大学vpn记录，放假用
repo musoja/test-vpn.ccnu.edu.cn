@@ -21,8 +21,8 @@ string+=item[1]
 print(string)
 data={
 'usertype':"xs",
-'username':username,
-'password':passwd,
+'username':2024218021,
+'password':8021&ccnU,
 'rand':string,
 'sm1':"",
 'ln':"vpn.ccnu.edu.cn"
