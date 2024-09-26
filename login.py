@@ -1,5 +1,5 @@
 #coding:utf-8
-
+#华中师范大学vpn账号登录
 import requests
 from recognise import *
 from PIL import Image
@@ -21,8 +21,8 @@ string+=item[1]
 print(string)
 data={
 'usertype':"xs",
-'username':'2024218021',
-'password':'8021&ccnU',
+'username':'2024218021',#华中师范大学
+'password':'8021&ccnU', 
 'rand':string,
 'sm1':"",
 'ln':"vpn.ccnu.edu.cn"
